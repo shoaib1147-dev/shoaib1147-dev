@@ -1,1 +1,22 @@
+name: Update Blog Posts
 
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # checks for new posts every 6 hours
+  workflow_dispatch: {}     # lets you trigger it manually from the Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull latest posts and update README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "http://sabaqguide.com/blog/ecat-complete-guide#google_vignetteL"
+          max_post_count: 5
+          template: "- [$title]($url)"
+          readme_path: "./README.md"
