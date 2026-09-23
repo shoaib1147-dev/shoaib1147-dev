@@ -1,38 +1,77 @@
-# Hi there, I'm a Backend Developer & Team Lead 👋
+# Hi there, I'm Shoaib 👋
 
-I am a **Lead Developer** with 1.5+ years of experience specializing in building robust, scalable backend systems using **Python** (**FastAPI** & **Flask**). Currently, I am expanding my toolkit by learning **Flutter** to bridge the gap between powerful backends and beautiful, cross-platform mobile experiences.
+<p align="left">
+  <img src="https://komarev.com" alt="shoaib1147-dev" />
+</p>
 
----
+## 🙋‍♂️ About Me
 
-## 🛠️ Tech Stack & Tools
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Shoaib Khan"
+        self.role = "Lead Developer @Neuroapp | Backend Engineer"
+        self.location = "Pakistan"
+        self.specialties = ["FastAPI", "Flask", "Python Asynchronous Systems"]
+        self.currently_building = [
+            "NeuroMCQ: Intelligent Assessment Management Platform",
+            "Automated OCR Data Pipelines via PaddleOCR"
+        ]
+        self.learning = ["Flutter Cross-Platform Development", "Dart Architecture"]
+        self.ask_me_about = "API Optimization, DB Architecture, System Design"
+        self.fun_fact = "I turn python scripts 🐍 into scalable production engines 🚀"
+```
 
-- **Backend Frameworks:** Python (FastAPI, Flask)
-- **AI & Automation:** PaddleOCR (OCR Extraction), Automated Pipelines
-- **Frontend & UI:** HTMX, Flutter (Learning), Dart
-- **Databases & Caching:** PostgreSQL, SQLite
-- **DevOps & Cloud:** Docker, GitHub Actions (CI/CD)
+## 🛠 Tech Stack
 
----
+**Backend & APIs**
+![Python](https://shields.io)
+![FastAPI](https://shields.io)
+![Flask](https://shields.io)
 
-## 🚀 Featured Portfolio Project
+**Mobile & Cross-Platform (Learning)**
+![Flutter](https://shields.io)
+![Dart](https://shields.io)
+
+**AI & OCR Automation**
+![PaddleOCR](https://shields.io)
+
+**Frontend & UI Interaction**
+![HTMX](https://shields.io)
+
+**Databases & Storage**
+![PostgreSQL](https://shields.io)
+![SQLite](https://shields.io)
+
+## 🚀 Featured Project
 
 ### 🧠 [NeuroMCQ](https://github.com)
-An intelligent question-bank and assessment management platform built with **FastAPI**. 
+An intelligent question-bank and assessment management platform built with **FastAPI**.
+* **OCR Extraction:** Powered by **PaddleOCR** for automatic question parsing from documents/images.
+* **Dynamic Web UI:** Built ultra-responsive interfaces leveraging **HTMX**.
+* **Robust Pipelines:** Native asynchronous export architecture for **CSV & JSON**.
 
-- **OCR Question Extraction:** Uses **PaddleOCR** for automated visual question extraction from images and documents.
-- **Dynamic Web Interface:** Built high-performance, reactive frontends using **HTMX** without heavy JavaScript frameworks.
-- **Data Pipelines:** Engineered rich export pipelines supporting both **CSV** and **JSON** formats.
-- **Hybrid Storage:** Designed data models utilizing **PostgreSQL** for production environments and **SQLite** for lightweight deployments.
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://vercel.app" alt="Shoaib's GitHub Stats" height="150" />
+  <img src="https://vercel.app" alt="Shoaib's Top Languages" height="150" />
+</p>
+
+<p align="left">
+  <img src="https://herokuapp.com" alt="Shoaib's GitHub Streak" />
+</p>
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shoaib-khan-a60070333/" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shoaibdotani1147@gmail.com" target="_blank">
+    <img src="https://shields.io" alt="Gmail" />
+  </a>
+</p>
 
 ---
-
-## 📈 What I'm Up To
-- 🔭 **Currently leading:** Backend architecture decisions and team workflows at @Neuroapp.
-- 🌱 **Actively learning:** Advanced state management in Flutter and integrating cross-platform clients with Python APIs.
-- 💬 **Ask me about:** API design with FastAPI/Flask, asynchronous data pipelines, and OCR document processing.
-
----
-
-## 📫 Connect with Me
-- **LinkedIn:** [https://www.linkedin.com/in/shoaib-khan-a60070333/](https://linkedin.com)
-- **Email:** your.email@example.com
+*"First, solve the problem. Then, write the code."* — John Johnson
