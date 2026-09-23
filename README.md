@@ -57,7 +57,11 @@ Ask me about        → API design (FastAPI/Flask), async data pipelines, OCR do
 ## <img src="https://api.iconify.design/mdi:notebook-edit-outline.svg?color=%232EA3F7" width="24" valign="middle"/> Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- Your latest blog posts will show up here automatically
+- <img src="https://api.iconify.design/mdi:book-open-page-variant.svg?color=%232EA3F7" width="16" valign="middle"/> [ecat-complete-guide](https://sabaqguide.com/blog/ecat-complete-guide)
+
+ 🔗 Read more at [sabaqguide.com](https://sabaqguide.com/)
+
+
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
