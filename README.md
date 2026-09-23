@@ -1,77 +1,68 @@
-# Hi there, I'm Shoaib 👋
+# 👨‍💻 Shoaib Khan | Lead Backend Engineer
 
-<p align="left">
-  <img src="https://komarev.com" alt="shoaib1147-dev" />
-</p>
-
-## 🙋‍♂️ About Me
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Shoaib Khan"
-        self.role = "Lead Developer @Neuroapp | Backend Engineer"
-        self.location = "Pakistan"
-        self.specialties = ["FastAPI", "Flask", "Python Asynchronous Systems"]
-        self.currently_building = [
-            "NeuroMCQ: Intelligent Assessment Management Platform",
-            "Automated OCR Data Pipelines via PaddleOCR"
-        ]
-        self.learning = ["Flutter Cross-Platform Development", "Dart Architecture"]
-        self.ask_me_about = "API Optimization, DB Architecture, System Design"
-        self.fun_fact = "I turn python scripts 🐍 into scalable production engines 🚀"
-```
-
-## 🛠 Tech Stack
-
-**Backend & APIs**
-![Python](https://shields.io)
-![FastAPI](https://shields.io)
-![Flask](https://shields.io)
-
-**Mobile & Cross-Platform (Learning)**
-![Flutter](https://shields.io)
-![Dart](https://shields.io)
-
-**AI & OCR Automation**
-![PaddleOCR](https://shields.io)
-
-**Frontend & UI Interaction**
-![HTMX](https://shields.io)
-
-**Databases & Storage**
-![PostgreSQL](https://shields.io)
-![SQLite](https://shields.io)
-
-## 🚀 Featured Project
-
-### 🧠 [NeuroMCQ](https://github.com)
-An intelligent question-bank and assessment management platform built with **FastAPI**.
-* **OCR Extraction:** Powered by **PaddleOCR** for automatic question parsing from documents/images.
-* **Dynamic Web UI:** Built ultra-responsive interfaces leveraging **HTMX**.
-* **Robust Pipelines:** Native asynchronous export architecture for **CSV & JSON**.
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://vercel.app" alt="Shoaib's GitHub Stats" height="150" />
-  <img src="https://vercel.app" alt="Shoaib's Top Languages" height="150" />
-</p>
-
-<p align="left">
-  <img src="https://herokuapp.com" alt="Shoaib's GitHub Streak" />
-</p>
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/shoaib-khan-a60070333/" target="_blank">
+<p align="center">
+  <img src="https://komarev.com" alt="shoaib1147-dev views" />
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  <a href="mailto:shoaibdotani1147@gmail.com" target="_blank">
-    <img src="https://shields.io" alt="Gmail" />
+  &nbsp;&nbsp;
+  <a href="mailto:shoaibdotani1147@gmail.com">
+    <img src="https://shields.io" alt="Email" />
   </a>
 </p>
 
 ---
-*"First, solve the problem. Then, write the code."* — John Johnson
+
+### 🚀 About Me
+
+```python
+{
+    "identity": "Shoaib Khan",
+    "current_role": "Lead Developer @Neuroapp",
+    "experience": "1.5+ Years Core Backend Engineering",
+    "core_focus": "Building robust, scalable asynchronous systems",
+    "current_initiative": "Bridging backend mastery with cross-platform mobile apps",
+    "status": "Actively mastering Flutter & Dart 📱"
+}
+```
+
+---
+
+### 🛠️ Core Competencies
+
+| Layer | Technologies & Frameworks |
+| :--- | :--- |
+| **Backend & Core** | `Python` `FastAPI` `Flask` `REST APIs` `Asynchronous Programming` |
+| **Data & Pipeline** | `PostgreSQL` `SQLite` `PaddleOCR` `CSV/JSON Data Serialization` |
+| **Frontend & UI** | `HTMX` `Flutter (Learning)` `Dart` |
+| **DevOps & Infrastructure** | `Docker` `GitHub Actions` `CI/CD Workflows` `Git` |
+
+---
+
+### 🧠 Featured Production Systems
+
+#### [NeuroMCQ](https://github.com) 
+> *An intelligent question-bank and corporate assessment management ecosystem engineered with FastAPI.*
+
+*   **Intelligent Extraction:** Built custom integration pipelines around **PaddleOCR** to automate visual question parsing from images and unstructured documents.
+*   **Reactive Web Layers:** Created lightweight, high-performance web templates utilizing **HTMX** to eliminate heavy client-side JavaScript overhead.
+*   **Export Engines:** Designed unified, reliable multi-format document streaming pipelines supporting direct **CSV and JSON data serializations**.
+*   **Hybrid Database Architecture:** Scaled operational layouts using **PostgreSQL** for full production loads alongside **SQLite** for standalone development layers.
+
+---
+
+### 📈 Operational Performance Analytics
+
+<p align="left">
+  <img src="https://vercel.app" alt="Shoaib's Stats" height="160" />
+  &nbsp;&nbsp;
+  <img src="https://vercel.app" alt="Shoaib's Top Languages" height="160" />
+</p>
+
+<p align="left">
+  <img src="https://herokuapp.com" alt="Shoaib's Contribution Streak" height="150" />
+</p>
+
+---
+
