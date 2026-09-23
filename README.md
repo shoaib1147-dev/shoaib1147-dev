@@ -1,68 +1,91 @@
-# 👨‍💻 Shoaib Khan | Lead Backend Engineer
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com" alt="shoaib1147-dev views" />
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:shoaibdotani1147@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shoaib+%F0%9F%91%8B;Backend+Developer+%26+Team+Lead;Python+%7C+FastAPI+%7C+Flask+%7C+Flutter" alt="Typing SVG" />
 
----
+<br/>
 
-### 🚀 About Me
+**Lead Developer** with **1.5+ years** of experience building robust, scalable backend systems using **Python** (**FastAPI** & **Flask**).
+Currently expanding my toolkit with **Flutter**, bridging powerful backends with beautiful, cross‑platform mobile experiences.
 
-```python
-{
-    "identity": "Shoaib Khan",
-    "current_role": "Lead Developer @Neuroapp",
-    "experience": "1.5+ Years Core Backend Engineering",
-    "core_focus": "Building robust, scalable asynchronous systems",
-    "current_initiative": "Bridging backend mastery with cross-platform mobile apps",
-    "status": "Actively mastering Flutter & Dart 📱"
-}
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaib-khan-a60070333/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoaibdotani1147@gmail.com)
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,flutter,dart,postgres,sqlite,docker,githubactions,git,html,js&theme=dark" />
+
+</div>
+
+<br/>
+
+| Category | Stack |
+|---|---|
+| **Backend Frameworks** | Python · FastAPI · Flask |
+| **AI & Automation** | PaddleOCR (OCR Extraction) · Automated Pipelines |
+| **Frontend & UI** | HTMX · Flutter (Learning) · Dart |
+| **Databases & Caching** | PostgreSQL · SQLite |
+| **DevOps & Cloud** | Docker · GitHub Actions (CI/CD) |
+
+<br/>
+
+## 🚀 Featured Portfolio Project
+
+<div align="center">
+
+### 🧠 [NeuroMCQ](https://github.com)
+*An intelligent question-bank and assessment management platform built with FastAPI*
+
+</div>
+
+- 📸 **OCR Question Extraction** — Uses **PaddleOCR** for automated visual question extraction from images and documents.
+- ⚡ **Dynamic Web Interface** — High-performance, reactive frontends built with **HTMX**, no heavy JavaScript frameworks required.
+- 🔄 **Data Pipelines** — Rich export pipelines supporting both **CSV** and **JSON** formats.
+- 🗄️ **Hybrid Storage** — Data models using **PostgreSQL** for production and **SQLite** for lightweight deployments.
+
+<br/>
+
+## 📈 What I'm Up To
+
+```text
+🔭  Currently leading      → Backend architecture decisions & team workflows @NeuroApp
+🌱  Actively learning      → Advanced state management in Flutter, cross-platform clients with Python APIs
+💬  Ask me about           → API design (FastAPI/Flask), async data pipelines, OCR document processing
 ```
 
----
+<br/>
 
-### 🛠️ Core Competencies
+## 📊 GitHub Stats
 
-| Layer | Technologies & Frameworks |
-| :--- | :--- |
-| **Backend & Core** | `Python` `FastAPI` `Flask` `REST APIs` `Asynchronous Programming` |
-| **Data & Pipeline** | `PostgreSQL` `SQLite` `PaddleOCR` `CSV/JSON Data Serialization` |
-| **Frontend & UI** | `HTMX` `Flutter (Learning)` `Dart` |
-| **DevOps & Infrastructure** | `Docker` `GitHub Actions` `CI/CD Workflows` `Git` |
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-### 🧠 Featured Production Systems
+<br/>
 
-#### [NeuroMCQ](https://github.com) 
-> *An intelligent question-bank and corporate assessment management ecosystem engineered with FastAPI.*
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 
-*   **Intelligent Extraction:** Built custom integration pipelines around **PaddleOCR** to automate visual question parsing from images and unstructured documents.
-*   **Reactive Web Layers:** Created lightweight, high-performance web templates utilizing **HTMX** to eliminate heavy client-side JavaScript overhead.
-*   **Export Engines:** Designed unified, reliable multi-format document streaming pipelines supporting direct **CSV and JSON data serializations**.
-*   **Hybrid Database Architecture:** Scaled operational layouts using **PostgreSQL** for full production loads alongside **SQLite** for standalone development layers.
+</div>
 
----
+<br/>
 
-### 📈 Operational Performance Analytics
+## 📫 Connect with Me
 
-<p align="left">
-  <img src="https://vercel.app" alt="Shoaib's Stats" height="160" />
-  &nbsp;&nbsp;
-  <img src="https://vercel.app" alt="Shoaib's Top Languages" height="160" />
-</p>
+<div align="center">
 
-<p align="left">
-  <img src="https://herokuapp.com" alt="Shoaib's Contribution Streak" height="150" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaib-khan-a60070333/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoaibdotani1147@gmail.com)
 
----
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2EA3F7" alt="profile views"/>
+
+</div>
