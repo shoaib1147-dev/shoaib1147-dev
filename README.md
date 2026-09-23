@@ -24,7 +24,7 @@ Currently expanding my toolkit with **Flutter**, bridging powerful backends with
 | **Databases** | <img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" /> |
 | **DevOps & Automation** | <img src="https://skillicons.dev/icons?i=docker,githubactions&theme=dark" /> |
 
-<sub>Also working with: **PaddleOCR** (OCR extraction) · **HTMX** (reactive UI) · **Automated Pipelines**</sub>
+
 
 <br/>
 
